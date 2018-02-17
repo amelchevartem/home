@@ -51,7 +51,6 @@
 		$res = $firstnum / $secondnum;
 		echo $res;
 	}
-	unset($res);
 ?>
 
 	</div>
